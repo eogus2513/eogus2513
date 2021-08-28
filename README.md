@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eogus2513&show_icons=true&show_icons=true&bg_color=angle,start,end)](https://github.com/eogus2513/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eogus2513&show_icons=true&show_icons=true%theme=github_dark)](https://github.com/eogus2513/github-readme-stats)
 
 
 <a href="https://github.com/eogus2513" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=Github&logoColor=balck"/></a>
