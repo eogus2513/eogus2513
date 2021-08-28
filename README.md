@@ -1,5 +1,5 @@
 #### Hi there 👋
-[![Anurag's GitHub stats]<a href="github.com/eogus2513">
+<a href="github.com/eogus2513">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eogus2513&layout=compact&show_icons=true&theme=github_dark)](https://github.com/eogus2513/github-readme-stats" />
   </a>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eogus2513&layout=compact&show_icons=true&theme=github_dark)](https://github.com/eogus2513/github-readme-stats)
