@@ -1,6 +1,6 @@
 <div align='center'>
    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&&section=header&text=DaeHyun&fontSize=90" />
-   <img src="https://github-readme-stats.vercel.app/api?username=eogus2513&layout=compact&show_icons=true&bg_color=dark,start,end&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api?username=eogus2513&layout=compact&show_icons=true&bg_color=red,blue&hide_border=true" />
    
    Tech Stack 🛠
    
