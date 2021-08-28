@@ -1,5 +1,5 @@
 #### Hi there 👋
-Version Control : <a href="https://github.com/eogus2513" target="_blank"><img src="https://camo.githubusercontent.com/45f27e5a6c3a058ce27cfa3c827d5e1e9eba6e1e2bcedf36c76b0c49e0128916/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"/></a>
+Version Control : <a href="https://github.com/eogus2513" target="_blank"><img src="https://img.shields.io/badge/-github-black"/></a>
 <!--
 **eogus2513/eogus2513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
