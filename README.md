@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://github.com/eogus2513" target="_blank"><img src="file:///C:/Users/%EC%A0%95%EB%8C%80%ED%98%84/Downloads/github.svg"/></a>
+<a href="https://github.com/eogus2513" target="_blank"><img src="https://simpleicons.org/icons/github.svg"/></a>
 <!--
 **eogus2513/eogus2513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
