@@ -3,7 +3,7 @@
 
    (https://github-readme-stats.vercel.app/api?username=eogus2513&layout=compact&show_icons=true&bg_color=angle,start,end&hide_border=true)]      (https://github.com/eogus2513/github-readme-stats)
    
-###🛠 Tech Stack 🛠
+   Tech Stack 🛠
 
 <a href="https://github.com/eogus2513" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=Github&logoColor=balck"/></a>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>
