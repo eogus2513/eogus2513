@@ -2,6 +2,7 @@
    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&&section=header&text=DaeHyun&fontSize=90&animation=twinkling" />
    <img src="https://github-readme-stats.vercel.app/api?username=eogus2513&layout=compact&show_icons=true&bg_color=red,blue&hide_border=true" />
    
+   
    Tech Stack 🛠
    
    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
