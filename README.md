@@ -1,5 +1,5 @@
 <div align='center'>
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&&section=header&text=DaeHyun&fontSize=90" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&&section=header&text=DaeHyun&fontSize=90&animation=fadeIn" />
    <img src="https://github-readme-stats.vercel.app/api?username=eogus2513&layout=compact&show_icons=true&bg_color=red,blue&hide_border=true" />
    
    Tech Stack 🛠
@@ -17,5 +17,5 @@
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
    ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&&section=header&text=DaeHyun&fontSize=90&rotate=-180" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&&section=header&text=DaeHyun&fontSize=90" />
 </div>
