@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-<a href="https://github.com/eogus2513" target="_blank"><img src="https://img.shields.io/badge/-github-black"/></a>
+<a href="https://github.com/eogus2513" target="_blank"><img src="https://img.shields.io/badge/-github-black"?style=flat-square&logo=github&logoColor=balck/></a>
 <!--
 **eogus2513/eogus2513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
