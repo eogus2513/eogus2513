@@ -2,7 +2,7 @@
    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&&section=header&text=DaeHyun&fontSize=90&animation=twinkling" />
    
    
-   🛠 Tech Stack 🛠
+   ##🛠 Tech Stack 🛠
    
    ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
    ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
