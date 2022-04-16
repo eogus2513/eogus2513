@@ -1,6 +1,6 @@
 #  <div width="100%" align="center">Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-### <div width="100%" align="center">Learning
+### <div width="100%" align="center">📚 Learning
 
 <p align="center">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -15,7 +15,7 @@
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://duinaru.github.io/img/uploads/githubactions.png" width="36" height="36" alt="GitHub Actions" /></a>
 </p>
 
-### <div width="100%" align="center">Tools
+### <div width="100%" align="center">🛠 Tools
 
 <p align="center">
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="36" height="36" alt="intellij" /></a>
@@ -23,7 +23,7 @@
 <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="36" height="36" alt="postman" /></a>
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" width="36" height="36" alt="postman" /></a>
 </p>
-
+  
 ### <div width="100%" align="center">Best Projects
 
 <div width="100%" align="center"><a href="https://github.com/walkhub/Walkhub-Server" align="rignt"><img align="rignt" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=walkhub&repo=Walkhub-Server&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/EntryDSM/Rolls-Royce" align="rignt"><img align="rignt" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EntryDSM&repo=Rolls-Royce&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div>
